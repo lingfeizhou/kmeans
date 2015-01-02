@@ -1,0 +1,2 @@
+Main-Class: HadoopGTK.KmeansJob
+Class-Path: /usr/local/jcuda/jcuda-0.6.0.jar /usr/local/jcuda/jcublas-0.6.0.jar /usr/local/jcuda/jcufft-0.6.0.jar /usr/local/jcuda/jcurand-0.6.0.jar /usr/local/jcuda/jcusparse-0.6.0.jar
